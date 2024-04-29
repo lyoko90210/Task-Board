@@ -1,16 +1,16 @@
 body{
     background-color: aliceblue;
-    
+    height: auto;
 }
 
-.top{
-    
-        border:dotted darkblue;
-}
+.top {
+    border: solid darkblue;
+    margin-top: 20px; 
+  }
 
-.btn.btn-primary {
-    display: block; /* Ensure the button takes up the full width */
-    margin:  auto; /* Center the button horizontally */
+.btn.btn-success{
+    display: block; 
+    margin:  auto;
     margin-top: 20px;
     margin-bottom: 50px;
 }
@@ -44,8 +44,32 @@ h2{
     border: solid;
     margin-left: auto;
     margin-right: auto;
-    height: 600px; 
-    width: 250px; 
+    height: 900px; 
+    width: 350px; 
+    margin-bottom: 20px;
+    background-color: rgb(255, 255, 255);
+}
+
+#draggable {
+    width: 200px;
+    height: 300px;
+    border-radius: 20px;
+   background-color:blue;
+   color: rgba(255, 255, 255, 0.87);
+}
+
+
+.btn-btn-danger{
+    align-items: center;
+    display: contents inline;
+
+}
+
+.modaldialog{
+    margin: auto;
+    align-items: center;
+    display: inline;
+    content: 
 }
 
 

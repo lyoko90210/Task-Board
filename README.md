@@ -1,13 +1,12 @@
-# Task-Board
- README draft based on the provided user story:
-
----
-
-# Task Board Application
+ 
+# Task-Board 
 
 ## Introduction
 
 Hello, I'm Daniel Dennis, a new web developer, and I'm excited to introduce my Task Board application. This application is designed to help project team members organize their tasks efficiently, manage their state of progress, and track overall project progress.
+
+# Task Board Application
+![Task board Screenshot](image.png)
 
 ## Purpose
 
@@ -39,11 +38,12 @@ To get started with the Task Board application:
 - JavaScript
 - bootstrap
 - jqueryui
--
+- day.js
+
 
 ## Feedback and Contributions
 
-I'm continuously working to improve the Task Board application. If you have any feedback, suggestions, or would like to contribute to the project, please feel free to [contact me](lyoko1629@gmail.com or @ https://linktr.ee/Lyoko90210 ) or submit a pull request.
+I'm continuously working to improve the my projects including my Task Board application. If you have any feedback, suggestions, or would like to contribute to the project, please feel free to Contact me ( lyoko1629@gmail.com or @ https://linktr.ee/Lyoko90210 )
 
 
 

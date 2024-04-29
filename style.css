@@ -1,0 +1,52 @@
+body{
+    background-color: aliceblue;
+    
+}
+
+.top{
+    
+        border:dotted darkblue;
+}
+
+.btn.btn-primary {
+    display: block; /* Ensure the button takes up the full width */
+    margin:  auto; /* Center the button horizontally */
+    margin-top: 20px;
+    margin-bottom: 50px;
+}
+
+.modal-body {
+    display: inline-block;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+
+
+h1{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+}
+
+p{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+    margin-top: 30px;
+}
+
+
+h2{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+
+.col1, .col2, .col3 {
+    border: solid;
+    margin-left: auto;
+    margin-right: auto;
+    height: 600px; 
+    width: 250px; 
+}
+
+
+
